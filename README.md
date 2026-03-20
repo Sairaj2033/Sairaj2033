@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey, I'm Sairaj Patil 👋<br>IAI & Data Science Engineer in progress 🤖📊<br>Ibuildd AI tools, web apps & smart solutions 💻⚙️<br>Creating projects that solve real problems 🚀<br>Sharing my journey in tech & development 🌐✨
+## 💫 About Me:
+Hey, I'm Sairaj Patil 👋<br>AI & Data Science Engineer in progress 🤖📊<br>I build AI tools, web apps & smart solutions 💻⚙️<br>Creating projects that solve real problems 🚀<br>Sharing my journey in tech & development 🌐✨
 
 
 ## 🌐 Socials:
@@ -18,5 +18,4 @@ Hey, I'm Sairaj Patil 👋<br>IAI & Data Science Engineer in progress 🤖📊<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
