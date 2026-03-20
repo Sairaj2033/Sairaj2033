@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Sairaj Patil 👋<br>AI & Data Science Engineer in progress 🤖📊<br>I build AI tools, web apps & smart solutions 💻⚙️<br>Creating projects that solve real problems 🚀<br>Sharing my journey in tech & development 🌐✨
+Hey, I'm Sairaj Patil 👋<br>IAI & Data Science Engineer in progress 🤖📊<br>Ibuildd AI tools, web apps & smart solutions 💻⚙️<br>Creating projects that solve real problems 🚀<br>Sharing my journey in tech & development 🌐✨
 
 
 ## 🌐 Socials:
