@@ -13,7 +13,7 @@ AI & Data Science student building real-world projects using MERN stack and AI, 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sairaj2023&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sairaj2033)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Sairaj2033=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
