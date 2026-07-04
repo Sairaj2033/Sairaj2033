@@ -96,6 +96,14 @@ Become an AI Software Engineer building products used by millions.
 
 </p>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 
 # 💫 About Me:
 AI & Data Science student building real-world projects using MERN stack and AI, currently working on full-stack and AI-based apps. Looking to collaborate on open-source and innovative ideas, seeking help with scaling and deployment, while exploring AI/ML and competitive programming.
