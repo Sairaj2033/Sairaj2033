@@ -88,6 +88,13 @@ Become an AI Software Engineer building products used by millions.
 
 ✔ Competitive Programming
 
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=tokyonight&column=4&margin-w=15"/>
+
+</p>
 
 
 # 💫 About Me:
