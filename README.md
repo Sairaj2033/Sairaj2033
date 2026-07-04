@@ -1,3 +1,17 @@
+<h1 align="center">
+Hi 👋 I'm Sairaj Patil
+</h1>
+
+<h3 align="center">
+AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=4F9DFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+🚀" />
+
+</p>
+
 # 💫 About Me:
 AI & Data Science student building real-world projects using MERN stack and AI, currently working on full-stack and AI-based apps. Looking to collaborate on open-source and innovative ideas, seeking help with scaling and deployment, while exploring AI/ML and competitive programming.
 
