@@ -72,11 +72,27 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sairaj2023&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sairaj2023&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sairaj2023&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Analytics
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Sairaj2033&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub Streak" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" height="170" alt="GitHub Trophies" />
+
+</div>
+
+###
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=onedark&no-frame=true&margin-w=10)
 
