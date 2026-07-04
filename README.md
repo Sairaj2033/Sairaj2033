@@ -99,9 +99,13 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=algolia&no-frame=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night" />
+</p>
 
 
 
