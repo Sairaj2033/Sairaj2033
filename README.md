@@ -12,59 +12,8 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 </p>
 
-## 📊 GitHub Analytics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight"/>
-
-</p>
-
-## 💫 About Me
-
-🎓 B.E. Artificial Intelligence & Data Science @ NMIET ('28)
-
-💻 Building scalable MERN & AI-powered applications
-
-🌱 Currently learning
-
-• Data Structures & Algorithms
-• Full Stack Development
-• Machine Learning
-
-🤝 Looking to collaborate on
-
-• Open Source
-• AI Projects
-• Web Applications
-
-🎯 Goal
-
-Become an AI Software Engineer building products used by millions.
-
-<p align="center">
-
-<a href="">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ## 💻 Tech Stack
 
@@ -74,35 +23,8 @@ Become an AI Software Engineer building products used by millions.
 
 </p>
 
-## 🚀 Current Focus
 
-✔ Data Structures & Algorithms
 
-✔ MERN Stack
-
-✔ Machine Learning
-
-✔ Open Source
-
-✔ System Design
-
-✔ Competitive Programming
-
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=tokyonight&column=4&margin-w=15"/>
-
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 
 # 💫 About Me:
