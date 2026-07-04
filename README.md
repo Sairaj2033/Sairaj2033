@@ -95,7 +95,6 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 </div>
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
