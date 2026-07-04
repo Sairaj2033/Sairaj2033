@@ -12,6 +12,22 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight"/>
+
+</p>
+
 ## 💫 About Me
 
 🎓 B.E. Artificial Intelligence & Data Science @ NMIET ('28)
