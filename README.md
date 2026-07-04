@@ -58,6 +58,20 @@ Become an AI Software Engineer building products used by millions.
 
 </p>
 
+## 🚀 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ MERN Stack
+
+✔ Machine Learning
+
+✔ Open Source
+
+✔ System Design
+
+✔ Competitive Programming
+
 
 
 # 💫 About Me:
