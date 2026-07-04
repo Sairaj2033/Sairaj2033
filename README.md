@@ -100,7 +100,7 @@ Become an AI Software Engineer building products used by millions.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
