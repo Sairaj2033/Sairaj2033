@@ -79,7 +79,6 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
   <img src="https://streak-stats.demolab.com?user=Sairaj2033&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub Streak" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" height="170" alt="GitHub Trophies" />
 
 </div>
 
