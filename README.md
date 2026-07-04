@@ -99,9 +99,8 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=algolia&no-frame=true" />
 </p>
-
 
 
 
