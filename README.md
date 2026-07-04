@@ -21,8 +21,8 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 <p align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,render,arch" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,react,androidstudio,linux,bash,sqlite,discord,ai,ps,pr,ae"/>
+
 </p>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
