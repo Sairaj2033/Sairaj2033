@@ -52,7 +52,19 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 
 
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/sairaj_patill">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:sairajpatil035@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
 
 
 
