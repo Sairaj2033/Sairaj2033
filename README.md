@@ -1,3 +1,56 @@
+## 💻 Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,powershell,figma" />
+</p>
+
+### Data Science & AI
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+</p>
+
+### Other Tools
+<p align="center">
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
 
 
 <h1 align="center">
