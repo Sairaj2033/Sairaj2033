@@ -50,6 +50,14 @@ Become an AI Software Engineer building products used by millions.
 
 </p>
 
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,render"/>
+
+</p>
+
 
 
 # 💫 About Me:
