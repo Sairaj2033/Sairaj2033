@@ -12,6 +12,30 @@ AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
 
 </p>
 
+## 💫 About Me
+
+🎓 B.E. Artificial Intelligence & Data Science @ NMIET ('28)
+
+💻 Building scalable MERN & AI-powered applications
+
+🌱 Currently learning
+
+• Data Structures & Algorithms
+• Full Stack Development
+• Machine Learning
+
+🤝 Looking to collaborate on
+
+• Open Source
+• AI Projects
+• Web Applications
+
+🎯 Goal
+
+Become an AI Software Engineer building products used by millions.
+
+
+
 # 💫 About Me:
 AI & Data Science student building real-world projects using MERN stack and AI, currently working on full-stack and AI-based apps. Looking to collaborate on open-source and innovative ideas, seeking help with scaling and deployment, while exploring AI/ML and competitive programming.
 
