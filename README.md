@@ -5,7 +5,7 @@ Hi 👋 I'm Sairaj Patil
 </h1>
 
 <h3 align="center">
-AI & Data Science Undergraduate • MERN Developer • AI Enthusiast
+AI & Data Science Undergraduate • MERN + ML Developer 
 </h3>
 
 <p align="center">
