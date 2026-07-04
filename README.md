@@ -21,7 +21,7 @@ AI & Data Science Undergraduate • MERN + ML Developer
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<a href="https://x.com/Sairaj_Patill">    
+<a href="https://x.com/sairaj__patil">    
 <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
