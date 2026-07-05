@@ -44,7 +44,7 @@ AI & Data Science Undergraduate • MERN + ML Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,react,androidstudio,linux,bash,sqlite,discord,ai,ps,pr,ae"/>
+<img src="https://skillicons.dev/icons?i=arch,blackarch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,powershell,npm,vercel,netlify,react,androidstudio,linux,bash,sqlite,discord,ai,ps,pr,ae"/>
 
 </p>
 <p align="center">
