@@ -1,908 +1,310 @@
 <!-- ========================================================= -->
-<!--                     PREMIUM HEADER                        -->
+<!--                       HEADER                              -->
+<!-- ========================================================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Sairaj%20Patil&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn"/>
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sairaj Patil
+</h1>
+
+<h3 align="center">
+AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× National Hackathon Finalist
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+Generative+AI+for+Satellite+Imagery;3x+National+Hackathon+Finalist;Google+Campus+Ambassador+%7C+GDGoC+Falcons+🚀"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Sairaj2033">
+<img src="https://img.shields.io/github/followers/Sairaj2033?label=Followers&style=for-the-badge&color=7AA2F7"/>
+</a>
+<a href="https://github.com/Sairaj2033">
+<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&color=BB9AF7"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
+</p>
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sairaj-patil-631701311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/sairaj__patil">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/sairaj_patill">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://discord.gg/CRKJbVM6a">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="mailto:sairajpatil035@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<!-- ========================================================= -->
+<!--                     ABOUT ME                              -->
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sairaj%20Patil&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=56&descAlign=50" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+Digital+Universe+🌌;Artificial+Intelligence+Developer;Building+AI+Powered+Applications;Full+Stack+MERN+Developer;Always+Learning+Something+New+🚀"/>
-
-</div>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td width="50%" align="center">
-
-<img src="YOUR_PROFESSIONAL_PHOTO_LINK_HERE" width="100%"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Projects+Every+Day+🚀"/>
-
-</div>
-
----
-
-# 🎯 About Me
-
-```typescript
-const sairaj = {
-
-    pronouns: "He/Him",
-
-    location: "Pune, Maharashtra 🇮🇳",
-
-    education: "B.E. Artificial Intelligence & Data Science",
-
-    currentFocus: [
-
-        "Artificial Intelligence",
-
-        "Machine Learning",
-
-        "Full Stack Web Development",
-
-        "Open Source"
-
-    ],
-
-    code: [
-
-        "JavaScript",
-
-        "TypeScript",
-
-        "Python",
-
-        "Java",
-
-        "SQL",
-
-        "C++"
-
-    ],
-
-    technologies: {
-
-        frontEnd: {
-
-            frameworks: [
-
-                "React",
-
-                "Next.js"
-
-            ],
-
-            styling: [
-
-                "Tailwind CSS",
-
-                "Bootstrap",
-
-                "CSS"
-
-            ]
-
-        },
-
-        backEnd: {
-
-            js: [
-
-                "Node.js",
-
-                "Express.js"
-
-            ]
-
-        },
-
-        aiMl: [
-
-            "Machine Learning",
-
-            "NumPy",
-
-            "Pandas",
-
-            "Scikit-Learn",
-
-            "TensorFlow (Learning)"
-
-        ],
-
-        databases: [
-
-            "MongoDB",
-
-            "MySQL",
-
-            "SQLite",
-
-            "Firebase",
-
-            "Supabase"
-
-        ],
-
-        tools: [
-
-            "Git",
-
-            "GitHub",
-
-            "VS Code",
-
-            "Postman",
-
-            "Figma"
-
-        ]
-
-    },
-
-    currentlyLearning: [
-
-        "Advanced MERN",
-
-        "System Design",
-
-        "AI Agents",
-
-        "Next.js",
-
-        "Cloud"
-
-    ],
-
-    askMeAbout: [
-
-        "AI",
-
-        "React",
-
-        "Node.js",
-
-        "Machine Learning",
-
-        "Open Source"
-
-    ],
-
-    projects: [
-
-        "VARTA AI",
-
-        "SQL Data Management Platform",
-
-        "WhatsApp Clone",
-
-        "Mini Web Projects"
-
-    ],
-
-    funFact: "I enjoy turning innovative ideas into real-world AI applications 🚀"
-
-}
-
-
-
----
-
-# 🌍 Connect With Me
+### 💫 About Me
+
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🎓 B.E. Artificial Intelligence & Data Science, NMIET Pune — Class of 2028 (CGPA 8.0)
+- 🛰️ Currently building **AetherClear-Net** — a generative AI model for cloud removal in Sentinel-1/Sentinel-2 satellite imagery, for **ISRO Bharatiya Antariksh Hackathon 2026**
+- 🏆 3× National-Level Hackathon Finalist
+- 🎤 Google Campus Ambassador • GDGoC Falcons Club Member • Social Media Lead @ Kalavishwa Cultural Club
+- 💻 Passionate about Full Stack (MERN) Development and Applied Machine Learning
+- 🌱 Currently exploring: Advanced DSA • System Design • Cryptography (PQC, ZKP, FHE)
+- 🤝 Open to collaborating on Open Source & AI/ML projects
+- 📍 Pune, Maharashtra, India
+- ⚡ Fun Fact: *"The best way to learn is by building projects."*
+
+<br clear="right"/>
+
+<!-- ========================================================= -->
+<!--                      TECH STACK                           -->
+<!-- ========================================================= -->
+
+### 💻 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
+</p>
 
-<a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+</p>
 
-&nbsp;&nbsp;
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                         -->
+<!-- ========================================================= -->
 
+### 🚀 Currently Working On
+
+<div align="center">
+
+| 🛰️ Building | 🚀 Learning | 🎯 Goal |
+|:---:|:---:|:---:|
+| AetherClear-Net (ISRO BAH 2026) | Advanced DSA | SDE / AI Internship |
+| MERN Projects | Generative AI (GANs/Diffusion) | Open Source Contributions |
+| Portfolio & Dev Brand | System Design | Production-Grade AI Systems |
+
+</div>
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj2033&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- ========================================================= -->
+<!--                     GITHUB TROPHIES                       -->
+<!-- ========================================================= -->
+
+### 🏆 GitHub Trophies
+
+<p align="center">
 <a href="https://github.com/Sairaj2033">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-profile-trophy-olive-chi.vercel.app/?username=Sairaj2033&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://x.com/sairaj__patil">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/sairaj_patill">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:sairajpatil035@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
----
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                       -->
+<!-- ========================================================= -->
 
-# 🛠️ Tech Arsenal
-
-<table align="center" width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🎨 Frontend Universe</h3>
+### 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,vite&theme=dark&perline=5"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<br>
+<!-- ========================================================= -->
+<!--                    CONTRIBUTION SNAKE                     -->
+<!-- ========================================================= -->
 
-<h3 align="center">⚙️ Backend & Database</h3>
+### 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,firebase,supabase&theme=dark&perline=4"/>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 AI / Machine Learning</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=2"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-</p>
-
-<br>
-
-<h3 align="center">☁️ Cloud & Deployment</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github&theme=dark&perline=4"/>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h3 align="center">💻 Programming Languages</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,sql&theme=dark"/>
-
-</p>
-
----
-
-<h3 align="center">🧰 Tools & Platforms</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,npm,bash,linux&theme=dark"/>
-
-</p>
-
----
-
-<h3 align="center">📚 Currently Exploring</h3>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-E11D48?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Clean+Code+✨;Scalable+Architecture+🏗️;AI+Powered+Applications+🤖;Always+Building+🚀"/>
-
-</div>
-
-
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight&hide_border=true" height="180"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight" height="180"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sairaj2033&theme=tokyonight" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5" width="100%"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sairaj2033&theme=tokyonight" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sairaj2033&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&custom_title=Sairaj%20Patil's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK"/>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
-
-<br>
-
 <picture>
-
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
-
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake.svg">
-
-<img alt="Snake Animation" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg" width="100%">
-
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
 </picture>
+</p>
 
-<br>
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/COMMITS-GROWING-00d9ff?style=for-the-badge&labelColor=000000"/>
-
-<img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-ff0040?style=for-the-badge&labelColor=000000"/>
-
-</div>
-
-<br>
+### 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Every+Commit+Counts...;Consistency+Builds+Greatness...;Keep+Coding+🚀"/>
-
-</div>
-
----
-
-
----
-
-# 🎯 Current Focus
-
-<table align="center" width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 Learning Roadmap</h3>
-
-```yaml
-Artificial Intelligence:
-  - Machine Learning
-  - Deep Learning
-  - AI Agents
-  - RAG Applications
-
-Full Stack:
-  - Advanced MERN Stack
-  - Next.js
-  - REST APIs
-  - Authentication
-
-Computer Science:
-  - Data Structures & Algorithms
-  - System Design
-  - OOP
-  - DBMS
-
-Cloud:
-  - GitHub Actions
-  - Vercel
-  - Netlify
-  - AWS Basics
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">💡 Current Goals</h3>
-
-```yaml
-Building:
-  - AI Powered Applications
-  - Production Ready MERN Apps
-  - Developer Portfolio
-  - Open Source Projects
-
-Preparing For:
-  - Software Engineering Internships
-  - Hackathons
-  - Open Source Programs
-
-Long Term:
-  - AI Engineer
-  - Full Stack Engineer
-  - Build SaaS Products
-  - Contribute to Major OSS
-```
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
+<a href="https://github.com/Sairaj2033/AetherClear-Net">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=AetherClear-Net&theme=tokyonight&hide_border=true"/>
+</a>
 
 <a href="https://github.com/Sairaj2033/VARTA-AI-Multilungual-AI-Platform">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=VARTA-AI-Multilungual-AI-Platform&theme=tokyonight&hide_border=true"/>
-
 </a>
 
 <a href="https://github.com/Sairaj2033/SQL-DATAMANAGEMENT-PLATFORM">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=SQL-DATAMANAGEMENT-PLATFORM&theme=tokyonight&hide_border=true"/>
-
 </a>
-
-<br><br>
 
 <a href="https://github.com/Sairaj2033/Whatsapp-chatbox-Clone-">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Whatsapp-chatbox-Clone-&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/Sairaj2033/Mini-Webdev-Projects">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Mini-Webdev-Projects&theme=tokyonight&hide_border=true"/>
-
 </a>
 
 </div>
 
----
+**🛰️ AetherClear-Net — Generative AI Cloud Removal for Satellite Imagery**
+Built for ISRO Bharatiya Antariksh Hackathon 2026 (PS2). Removes cloud cover from Sentinel-2 optical imagery using Sentinel-1 SAR data and generative deep learning.
+`Tech Stack:` Python • TensorFlow/PyTorch • Google Earth Engine • Sentinel-1/2 Data • Generative AI
 
-## 🤖 VARTA AI
+**🤖 VARTA AI — Multilingual AI Platform**
+AI-powered multilingual platform focused on intelligent communication.
+`Tech Stack:` React • Node.js • Express • MongoDB • AI APIs
 
-> AI-powered multilingual platform focused on intelligent communication and productivity.
+**🗄 SQL Data Management Platform**
+Database management application with CRUD operations and SQL integration.
+`Tech Stack:` HTML • CSS • JavaScript • SQL
 
-**Tech Stack**
+**💬 WhatsApp Chatbox Clone**
+Responsive WhatsApp-inspired interface built from scratch.
+`Tech Stack:` HTML • CSS • JavaScript
 
-`React` • `Node.js` • `Express` • `MongoDB` • `AI APIs`
+<!-- ========================================================= -->
+<!--              GITHUB PROFILE SUMMARY                       -->
+<!-- ========================================================= -->
 
----
+### 📋 GitHub Profile Summary
 
-## 🗄 SQL Data Management Platform
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sairaj2033&theme=tokyonight"/>
+</p>
 
-> Database management application with CRUD operations and SQL integration.
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
-**Tech Stack**
+<!-- ========================================================= -->
+<!--                    CODING ACTIVITY                        -->
+<!-- ========================================================= -->
 
-`HTML` • `CSS` • `JavaScript` • `SQL`
-
----
-
-## 💬 WhatsApp Chatbox Clone
-
-> Responsive WhatsApp-inspired chat interface built with modern frontend practices.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
----
-
-## 🌐 Mini Web Development Projects
-
-> Collection of responsive frontend projects for improving development skills.
-
-**Highlights**
-
-- Responsive Design
-- JavaScript Projects
-- UI Components
-- Animations
-
----
-
-# 🌍 Community & Open Source
-
-### 🤝 Collaboration
-
-- 🚀 Open to collaborating on AI & Full Stack projects.
-- 💡 Passionate about solving real-world problems.
-- 🌍 Always interested in innovative open-source initiatives.
-- 📚 Love sharing knowledge with fellow developers.
-
----
-
-### 💻 Development Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-I believe the best way to master technology is by creating real-world applications that solve meaningful problems.
-
----
-
-# ⚡ Fun Facts
-
-- 💻 I enjoy building AI-powered web applications.
-- 🤖 Artificial Intelligence fascinates me.
-- 🚀 Learning something new every day is my favorite habit.
-- 🌍 I love contributing to the developer community.
-- ☕ Most of my ideas start with coffee and VS Code.
-
----
+### ⚡ Development Activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Dream+Big+🚀;Build+Every+Day+💻;Learn+Relentlessly+📚;Create+Impact+🌍"/>
+💻 Languages: JavaScript • TypeScript • Python • Java • SQL
 
-</div>
-
----
-
-
----
-
-# 🏆 Achievements & Milestones
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/B.E-AI%20%26%20Data%20Science-0ea5e9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MERN-Developer-10b981?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem-Solver-red?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-💻
-
-### Full Stack
-
-Building scalable MERN applications
-
-</td>
-
-<td align="center">
-
-🤖
-
-### Artificial Intelligence
-
-Developing AI-powered solutions
-
-</td>
-
-<td align="center">
-
-🚀
-
-### Open Source
-
-Growing through collaboration
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 LeetCode Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures-Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-Practicing-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Consistency-Every%20Day-orange?style=for-the-badge"/>
-
-</div>
-
----
-
-# ⚡ Development Activity
-
-<div align="center">
-
-```text
-💻 Languages
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-JavaScript      ████████████████████ 95%
-
-TypeScript      ██████████████████░ 88%
-
-Python          █████████████████░░ 84%
-
-Java            ████████████████░░░ 78%
-
-SQL             ███████████████░░░░ 75%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Current Focus
-
-██████████████████████░░░ 90% MERN
-
-████████████████████░░░░ 82% AI
-
-███████████████████░░░░░ 80% DSA
-
-██████████████████░░░░░░ 75% System Design
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 Current Focus:
+```
+███████████████████████░░░░░ 85% MERN Stack
+███████████████████████░░░░░ 78% Machine Learning / Generative AI
+██████████████████░░░░░░░░░░ 65% Data Structures & Algorithms
+█████████████████░░░░░░░░░░░ 60% System Design
 ```
 
 </div>
 
----
+<!-- ========================================================= -->
+<!--                  RANDOM DEV QUOTE                         -->
+<!-- ========================================================= -->
 
-# 💭 Random Developer Quote
+### 💭 Random Dev Quote
 
-<div align="center">
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
-</div>
+<!-- ========================================================= -->
+<!--                   PROFILE VISITORS                        -->
+<!-- ========================================================= -->
 
----
+### 👀 Profile Statistics
 
-# 👀 Profile Statistics
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&color=7aa2f7"/>
+<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&color=bb9af7"/>
+</p>
 
-<div align="center">
+<!-- ========================================================= -->
+<!--                    SUPPORT SECTION                        -->
+<!-- ========================================================= -->
 
-<img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
+### 🤝 Let's Connect
 
-<img src="https://img.shields.io/github/followers/Sairaj2033?logo=github&style=for-the-badge"/>
+<p align="center">
+Always interested in collaborating on
 
-<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge"/>
+✨ Open Source &nbsp;•&nbsp; 🛰️ AI for Earth Observation &nbsp;•&nbsp; 🌐 Full Stack Development &nbsp;•&nbsp; 🚀 Hackathons
+</p>
 
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💡 Always interested in collaborating on
-
-🚀 Artificial Intelligence
-
-🌍 Full Stack Development
-
-🤖 Machine Learning
-
-💻 Open Source
-
-⚡ Innovative Projects
-
-<br>
-
+<p align="center">
 <a href="mailto:sairajpatil035@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;
-
 <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+</p>
 
-</div>
+<!-- ========================================================= -->
+<!--                      FUN FACT                             -->
+<!-- ========================================================= -->
 
----
-
-# ⚡ Fun Philosophy
-
-<div align="center">
-
-> **"Build things that matter. Learn endlessly. Share your knowledge."**
-
-</div>
-
----
+### ⚡ Fun Fact
 
 <div align="center">
 
-### 💖 Thanks for visiting!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70"/>
-
-**If you like my work, consider giving a ⭐ to my repositories!**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff"/>
+"Code. Learn. Build. Repeat."
 
 </div>
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
+</div>
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+<p align="center">If you like my projects, consider giving them a ⭐</p>
