@@ -8,11 +8,11 @@
 </h1>
 
 <h3 align="center">
-AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× National Hackathon Finalist
+Artificial Intelligence & Data Science Undergraduate • MERN Stack Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+Generative+AI+for+Satellite+Imagery;3x+National+Hackathon+Finalist;Google+Campus+Ambassador+%7C+GDGoC+Falcons+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
@@ -45,29 +45,23 @@ AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× Nationa
 </a>
 </p>
 
-<!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
-<!-- ========================================================= -->
-
 ### 💫 About Me
 
 <img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🎓 B.E. Artificial Intelligence & Data Science, NMIET Pune — Class of 2028 (CGPA 8.0)
-- 🛰️ Currently building **AetherClear-Net** — a generative AI model for cloud removal in Sentinel-1/Sentinel-2 satellite imagery, for **ISRO Bharatiya Antariksh Hackathon 2026**
-- 🏆 3× National-Level Hackathon Finalist
-- 🎤 Google Campus Ambassador • GDGoC Falcons Club Member • Social Media Lead @ Kalavishwa Cultural Club
-- 💻 Passionate about Full Stack (MERN) Development and Applied Machine Learning
-- 🌱 Currently exploring: Advanced DSA • System Design • Cryptography (PQC, ZKP, FHE)
-- 🤝 Open to collaborating on Open Source & AI/ML projects
+- 🎓 B.E. Artificial Intelligence & Data Science
+- 💻 Passionate about Full Stack Web Development and Artificial Intelligence
+- 🌱 Currently learning
+  - Data Structures & Algorithms
+  - MERN Stack
+  - Machine Learning
+  - System Design
+- 🚀 Building scalable web applications and AI-powered solutions.
+- 🤝 Open to collaborating on Open Source Projects.
 - 📍 Pune, Maharashtra, India
 - ⚡ Fun Fact: *"The best way to learn is by building projects."*
 
 <br clear="right"/>
-
-<!-- ========================================================= -->
-<!--                      TECH STACK                           -->
-<!-- ========================================================= -->
 
 ### 💻 Tech Stack
 
@@ -84,39 +78,30 @@ AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× Nationa
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Lightroom_Classic-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 </p>
 
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
-<!-- ========================================================= -->
-
 ### 🚀 Currently Working On
 
 <div align="center">
 
-| 🛰️ Building | 🚀 Learning | 🎯 Goal |
+| 🚀 Learning | 💡 Exploring | 🎯 Goal |
 |:---:|:---:|:---:|
-| AetherClear-Net (ISRO BAH 2026) | Advanced DSA | SDE / AI Internship |
-| MERN Projects | Generative AI (GANs/Diffusion) | Open Source Contributions |
-| Portfolio & Dev Brand | System Design | Production-Grade AI Systems |
+| Advanced DSA | AI Applications | SDE Internship |
+| MERN Stack | Open Source | System Design |
+| Machine Learning | DevOps Basics | Production Projects |
 
 </div>
-
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
 
 ### 📊 GitHub Analytics
 
@@ -129,10 +114,6 @@ AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× Nationa
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- ========================================================= -->
-<!--                     GITHUB TROPHIES                       -->
-<!-- ========================================================= -->
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -141,19 +122,11 @@ AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× Nationa
 </a>
 </p>
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION GRAPH                       -->
-<!-- ========================================================= -->
-
 ### 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                     -->
-<!-- ========================================================= -->
 
 ### 🐍 Contribution Snake
 
@@ -165,35 +138,22 @@ AI & Data Science Undergrad @ NMIET '28 • MERN Stack Developer • 3× Nationa
 </picture>
 </p>
 
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
 ### 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Sairaj2033/AetherClear-Net">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=AetherClear-Net&theme=tokyonight&hide_border=true"/>
-</a>
-
 <a href="https://github.com/Sairaj2033/VARTA-AI-Multilungual-AI-Platform">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=VARTA-AI-Multilungual-AI-Platform&theme=tokyonight&hide_border=true"/>
 </a>
-
 <a href="https://github.com/Sairaj2033/SQL-DATAMANAGEMENT-PLATFORM">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=SQL-DATAMANAGEMENT-PLATFORM&theme=tokyonight&hide_border=true"/>
 </a>
-
 <a href="https://github.com/Sairaj2033/Whatsapp-chatbox-Clone-">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Whatsapp-chatbox-Clone-&theme=tokyonight&hide_border=true"/>
 </a>
-
+<a href="https://github.com/Sairaj2033/Mini-Webdev-Projects">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Mini-Webdev-Projects&theme=tokyonight&hide_border=true"/>
+</a>
 </div>
-
-**🛰️ AetherClear-Net — Generative AI Cloud Removal for Satellite Imagery**
-Built for ISRO Bharatiya Antariksh Hackathon 2026 (PS2). Removes cloud cover from Sentinel-2 optical imagery using Sentinel-1 SAR data and generative deep learning.
-`Tech Stack:` Python • TensorFlow/PyTorch • Google Earth Engine • Sentinel-1/2 Data • Generative AI
 
 **🤖 VARTA AI — Multilingual AI Platform**
 AI-powered multilingual platform focused on intelligent communication.
@@ -207,9 +167,9 @@ Database management application with CRUD operations and SQL integration.
 Responsive WhatsApp-inspired interface built from scratch.
 `Tech Stack:` HTML • CSS • JavaScript
 
-<!-- ========================================================= -->
-<!--              GITHUB PROFILE SUMMARY                       -->
-<!-- ========================================================= -->
+**🌐 Mini Web Development Projects**
+A collection of frontend projects for learning modern web development.
+`Highlights:` Responsive UI • Animations • Components • JavaScript Projects
 
 ### 📋 GitHub Profile Summary
 
@@ -223,10 +183,6 @@ Responsive WhatsApp-inspired interface built from scratch.
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
-<!-- ========================================================= -->
-<!--                    CODING ACTIVITY                        -->
-<!-- ========================================================= -->
-
 ### ⚡ Development Activity
 
 <div align="center">
@@ -236,26 +192,18 @@ Responsive WhatsApp-inspired interface built from scratch.
 🔥 Current Focus:
 ```
 ███████████████████████░░░░░ 85% MERN Stack
-███████████████████████░░░░░ 78% Machine Learning / Generative AI
+███████████████████░░░░░░░░░ 70% Machine Learning
 ██████████████████░░░░░░░░░░ 65% Data Structures & Algorithms
 █████████████████░░░░░░░░░░░ 60% System Design
 ```
 
 </div>
 
-<!-- ========================================================= -->
-<!--                  RANDOM DEV QUOTE                         -->
-<!-- ========================================================= -->
-
 ### 💭 Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
-<!-- ========================================================= -->
-<!--                   PROFILE VISITORS                        -->
-<!-- ========================================================= -->
 
 ### 👀 Profile Statistics
 
@@ -265,16 +213,12 @@ Responsive WhatsApp-inspired interface built from scratch.
 <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&color=bb9af7"/>
 </p>
 
-<!-- ========================================================= -->
-<!--                    SUPPORT SECTION                        -->
-<!-- ========================================================= -->
-
 ### 🤝 Let's Connect
 
 <p align="center">
 Always interested in collaborating on
 
-✨ Open Source &nbsp;•&nbsp; 🛰️ AI for Earth Observation &nbsp;•&nbsp; 🌐 Full Stack Development &nbsp;•&nbsp; 🚀 Hackathons
+✨ Open Source &nbsp;•&nbsp; 🤖 Artificial Intelligence &nbsp;•&nbsp; 🌐 Full Stack Development &nbsp;•&nbsp; 🚀 Innovative Projects
 </p>
 
 <p align="center">
@@ -285,10 +229,6 @@ Always interested in collaborating on
 <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
-<!-- ========================================================= -->
-<!--                      FUN FACT                             -->
-<!-- ========================================================= -->
 
 ### ⚡ Fun Fact
 
