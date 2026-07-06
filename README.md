@@ -1,62 +1,36 @@
 <!-- ========================================================= -->
-<!--                         HEADER                             -->
+<!--                       HEADER                              -->
 <!-- ========================================================= -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Sairaj%20Patil&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn"/>
+
 <h1 align="center">
-  Hi 👋 I'm <a href="https://github.com/Sairaj2033">Sairaj Patil</a>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sairaj Patil
 </h1>
 
 <h3 align="center">
-AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learning Enthusiast
+Artificial Intelligence & Data Science Undergraduate • MERN Stack Developer • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI-Powered+Applications;Exploring+Machine+Learning;Open+Source+Learner;Always+Learning+Something+New+🚀" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+MERN+Developer;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning+Something+New+🚀"/>
+
 </p>
 
----
+<p align="center">
 
-## 👨‍💻 About Me
+<a href="https://github.com/Sairaj2033">
+<img src="https://img.shields.io/github/followers/Sairaj2033?label=Followers&style=for-the-badge&color=7AA2F7"/>
+</a>
 
-<table>
-<tr>
+<a href="https://github.com/Sairaj2033">
+<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&color=BB9AF7"/>
+</a>
 
-<td width="55%" valign="top">
+<img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
 
-### 🚀 Who Am I?
-
-- 🎓 **B.E. Artificial Intelligence & Data Science**
-- 💻 Passionate about **Full Stack MERN Development**
-- 🤖 Exploring **Machine Learning & Artificial Intelligence**
-- 🌱 Currently mastering **DSA, MERN & System Design**
-- 🔭 Building practical projects that solve real-world problems
-- 💬 Ask me about **React, Node.js, Express, MongoDB & Python**
-- 📍 Pune, Maharashtra, India 🇮🇳
-- ⚡ Fun Fact: *I enjoy turning ideas into polished applications.*
-
----
-
-### 🎯 Current Focus
-
-```text
-📚 Learning
-├── Data Structures & Algorithms
-├── MERN Stack
-├── Machine Learning
-├── Prompt Engineering
-└── Open Source Contributions
-```
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k2Y2V4cnppZXJmOWQzNTRvNjl4aDltdGx2cTRvYzVzODQ1Z2QzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -88,60 +62,48 @@ AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learni
 
 ---
 
-<p align="center">
+# 💫 About Me
 
-<img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&color=7aa2f7"/>
+🎓 **B.E. Artificial Intelligence & Data Science**
 
-<img src="https://img.shields.io/github/stars/Sairaj2033?style=for-the-badge&color=bb9af7"/>
+💻 Passionate about **Full Stack Web Development** and **Artificial Intelligence**
 
-</p>
+🌱 Currently learning
+
+- Data Structures & Algorithms
+- MERN Stack
+- Machine Learning
+- System Design
+
+🚀 Building scalable web applications and AI-powered solutions.
+
+🤝 Open to collaborating on Open Source Projects.
+
+📍 Pune, Maharashtra, India
+
+⚡ Fun Fact:
+
+> *"The best way to learn is by building projects."*
+
+<br clear="right"/>
+
+---
+
 
 
 <!-- ========================================================= -->
-<!--                      TECH ARSENAL                         -->
+<!--                      TECH STACK                           -->
 <!-- ========================================================= -->
 
-# 💻 Tech Arsenal
-
-<h3 align="center">Languages</h3>
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+
+<img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
+
 </p>
-
-<h3 align="center">Frontend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-</p>
-
-<h3 align="center">Backend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
-</p>
-
-<h3 align="center">Databases</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-<h3 align="center">Developer Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify,linux,bash,powershell,arch" />
-</p>
-
-<h3 align="center">Design & Creative</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae" />
-</p>
-
-<h3 align="center">Additional Technologies</h3>
 
 <p align="center">
 
@@ -161,22 +123,78 @@ AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learni
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 
 </p>
 
----              
+---
+
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                         -->
+<!-- ========================================================= -->
+
+# 🚀 Currently Working On
+
+<div align="center">
+
+| 🚀 Learning | 💡 Exploring | 🎯 Goal |
+|:-----------:|:------------:|:-------:|
+| Advanced DSA | Machine Learning | SDE Internship |
+| MERN Stack | AI Applications | Open Source |
+| System Design | DevOps Basics | Production Projects |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj2033&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     GITHUB TROPHIES                       -->
+<!-- ========================================================= -->
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://YOUR-TROPHY-DOMAIN.vercel.app/?username=Sairaj2033&theme=dracula&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true"/>
+
+</p>
+
+---
+
 
 
 <!-- ========================================================= -->
-<!--                 CONTRIBUTION GRAPH                        -->
+<!--                  CONTRIBUTION GRAPH                       -->
 <!-- ========================================================= -->
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -188,7 +206,13 @@ AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learni
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </p>
 
 ---
@@ -199,87 +223,76 @@ AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learni
 
 # 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Sairaj2033/VARTA-AI-Multilungual-AI-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=VARTA-AI-Multilungual-AI-Platform&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=VARTA-AI-Multilungual-AI-Platform&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Sairaj2033/SQL-DATAMANAGEMENT-PLATFORM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=SQL-DATAMANAGEMENT-PLATFORM&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=SQL-DATAMANAGEMENT-PLATFORM&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Sairaj2033/Whatsapp-chatbox-Clone-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Whatsapp-chatbox-Clone-&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Whatsapp-chatbox-Clone-&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Sairaj2033/Mini-Webdev-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Mini-Webdev-Projects&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Mini-Webdev-Projects&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ## 🤖 VARTA AI — Multilingual AI Platform
 
-> AI-powered multilingual communication platform built with modern web technologies.
+> AI-powered multilingual platform focused on intelligent communication.
 
-**Highlights**
+**Tech Stack**
 
-- 🌍 Multi-language support
-- 🤖 AI-assisted responses
-- ⚡ Fast and responsive UI
-- 🎨 Modern interface
+`React` • `Node.js` • `Express` • `MongoDB` • `AI APIs`
 
 ---
 
 ## 🗄 SQL Data Management Platform
 
-> A complete SQL database management system for handling structured data efficiently.
+> Database management application with CRUD operations and SQL integration.
 
-**Highlights**
+**Tech Stack**
 
-- 📊 CRUD Operations
-- 🔐 Database Management
-- ⚙ SQL Integration
-- 📈 Organized Data Handling
+`HTML` • `CSS` • `JavaScript` • `SQL`
 
 ---
 
 ## 💬 WhatsApp Chatbox Clone
 
-> Responsive WhatsApp-inspired chat interface built using frontend technologies.
+> Responsive WhatsApp-inspired interface built from scratch.
 
-**Highlights**
+**Tech Stack**
 
-- 💬 Modern Chat UI
-- 📱 Responsive Layout
-- ⚡ Lightweight Design
-- 🎨 Pixel-perfect Interface
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
-## 🌐 Mini WebDev Projects
+## 🌐 Mini Web Development Projects
 
-> A collection of frontend mini-projects demonstrating web development concepts.
+> A collection of frontend projects for learning modern web development.
 
 **Highlights**
 
-- HTML
-- CSS
-- JavaScript
-- Responsive Components
-- UI Experiments
+- Responsive UI
+- Animations
+- Components
+- JavaScript Projects
 
 ---
 
-
 <!-- ========================================================= -->
-<!--                GITHUB PROFILE SUMMARY                     -->
+<!--              GITHUB PROFILE SUMMARY                       -->
 <!-- ========================================================= -->
 
-# 🏆 GitHub Profile Summary
+# 📋 GitHub Profile Summary
 
 <p align="center">
 
@@ -299,66 +312,41 @@ AI & Data Science Undergraduate • Full Stack MERN Developer • Machine Learni
 
 ---
 
+
 <!-- ========================================================= -->
-<!--                    DEVELOPMENT JOURNEY                    -->
+<!--                    CODING ACTIVITY                        -->
 <!-- ========================================================= -->
 
-# 🚀 Development Journey
+# ⚡ Development Activity
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
 
-🎓 **Education**
+```text
+💻 Languages: JavaScript • TypeScript • Python • Java • SQL
 
-• B.E. Artificial Intelligence & Data Science
+🔥 Current Focus:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-• Pune, Maharashtra 🇮🇳
+███████████████████████░░░░░ 85% MERN Stack
 
-</td>
+███████████████████░░░░░░░░░ 70% Machine Learning
 
-<td>
+██████████████████░░░░░░░░░░ 65% Data Structures & Algorithms
 
-💼 **Current Focus**
+█████████████████░░░░░░░░░░░ 60% System Design
 
-• MERN Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-• Machine Learning
-
-• DSA
-
-• System Design
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🎯 **Career Goal**
-
-Become a Software Engineer specializing in AI-powered Full Stack Applications.
-
-</td>
-
-<td>
-
-🌱 **Always Learning**
-
-I enjoy building projects that combine modern web technologies with Artificial Intelligence to solve real-world problems.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                      RANDOM QUOTE                         -->
+<!--                  RANDOM DEV QUOTE                         -->
 <!-- ========================================================= -->
 
-# 💭 Dev Quote
+# 💭 Random Dev Quote
 
 <p align="center">
 
@@ -369,35 +357,93 @@ I enjoy building projects that combine modern web technologies with Artificial I
 ---
 
 <!-- ========================================================= -->
-<!--                    VISITOR COUNTER                        -->
+<!--                   PROFILE VISITORS                        -->
 <!-- ========================================================= -->
 
-# 👀 Profile Visitors
+# 👀 Profile Statistics
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&color=7aa2f7"/>
 
-<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&color=bb9af7"/>
 
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!--                          FOOTER                           -->
+<!--                    SUPPORT SECTION                        -->
 <!-- ========================================================= -->
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer"/>
+Always interested in collaborating on
+
+✨ Open Source
+
+🤖 Artificial Intelligence
+
+🌐 Full Stack Development
+
+🚀 Innovative Projects
 
 </p>
 
+<p align="center">
+
+<a href="mailto:sairajpatil035@gmail.com">
+
+<img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/sairaj-patil-631701311">
+
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                      FUN FACT                             -->
+<!-- ========================================================= -->
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+> **"Code. Learn. Build. Repeat."**
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
+
 <h3 align="center">
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile!
 
 </h3>
+
+<p align="center">
+
+If you like my projects, consider giving them a ⭐
+
+</p>
