@@ -177,10 +177,13 @@ Artificial Intelligence & Data Science Undergraduate • MERN Stack Developer �
 
 # 🏆 GitHub Trophies
 
+
+
 <p align="center">
 
-<img src="https://YOUR-TROPHY-DOMAIN.vercel.app/?username=Sairaj2033&theme=dracula&column=4&margin-w=20&margin-h=20&no-bg=true&no-frame=true"/>
-
+<a href="https://github.com/Sairaj2033">
+  <img src="https://github-profile-trophy-olive-chi.vercel.app/?username=Sairaj2033&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+</a>
 </p>
 
 ---
