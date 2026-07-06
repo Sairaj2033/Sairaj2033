@@ -84,8 +84,7 @@ AI & Data Science Undergraduate • MERN + ML Developer
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Sairaj2033&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="GitHub Streak" />
-
+ <img src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight" />
 
 </div>
 
