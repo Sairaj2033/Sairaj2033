@@ -51,21 +51,82 @@
   </a>
 </p>
 
-💫 About Me
+# 💫 About Me
 
 <img align="right" width="340" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
-🎓 B.E. Artificial Intelligence & Data Science
-💻 Passionate about Full Stack Web Development and Artificial Intelligence
-🌱 Currently learning
-Data Structures & Algorithms
-MERN Stack
-Machine Learning
-System Design
-🚀 Building scalable web applications and AI-powered solutions.
-🤝 Open to collaborating on Open Source Projects.
-📍 Pune, Maharashtra, India
-⚡ Fun Fact: "The best way to learn is by building projects."
+```typescript
+const sairaj = {
+    pronouns: "He/Him",
+
+    location: "Pune, Maharashtra, India 🇮🇳",
+
+    education: "B.E. Artificial Intelligence & Data Science",
+
+    currentFocus: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Full Stack Web Development",
+        "Open Source"
+    ],
+
+    code: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "SQL"
+    ],
+
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        aiMl: [
+            "Scikit-learn",
+            "TensorFlow",
+            "NumPy",
+            "Pandas"
+        ],
+        databases: [
+            "MongoDB",
+            "MySQL",
+            "Firebase"
+        ],
+        tools: [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Postman"
+        ]
+    },
+
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Advanced MERN Stack",
+        "Machine Learning",
+        "System Design",
+        "AI Agents"
+    ],
+
+    projects: [
+        "VARTA AI",
+        "SQL Data Management Platform",
+        "WhatsApp Clone",
+        "Mini Web Projects"
+    ],
+
+    openTo: [
+        "Open Source",
+        "Hackathons",
+        "AI Projects",
+        "Full Stack Collaborations"
+    ],
+
+    lifePhilosophy:
+        "The best way to learn is by building real-world projects. 🚀"
+};
+```
+
 <br clear="right"/>
 
 <!-- ==========================================
