@@ -149,25 +149,11 @@ const sairaj = {
 ==============================================
 -->
 
-# 🚀 Currently Working On
 
-<div align="center">
-  🚀 Learning
-  💡 Exploring
-  🎯 Goal
-  Advanced DSA
-  Machine Learning
-  SDE Internship
-  MERN Stack
-  AI Applications
-  Open Source
-  System Design
-  DevOps Basics
-Production Projects
 
-</div>
 
-📊 GitHub Analytics
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -178,7 +164,7 @@ Production Projects
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
@@ -186,13 +172,13 @@ Production Projects
   </a>
 </p>
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyonight&hide_border=true&area=true"/>
 </p>
 
-🐍 Contribution Snake
+# Fun Contribution Snake
 
 <p align="center">
   <picture>
@@ -202,7 +188,7 @@ Production Projects
   </picture>
 </p>
 
-🚀 Featured Projects
+#🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Sairaj2033/VARTA-AI-Multilingual-AI-Platform">
@@ -242,7 +228,7 @@ Animations
 Components
 JavaScript Projects
 
-📋 GitHub Profile Summary
+# 📋 GitHub Profile Summary
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight"/>
@@ -254,27 +240,11 @@ JavaScript Projects
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
-⚡ Development Activity
 
-<div align="center">
-  💻 Languages: JavaScript • TypeScript • Python • Java • SQL
 
-  🔥 Current Focus:
-  ────────────────────────────────────────────────────────────
-  ████████████████████████████████████████░░░░░░ 85% MERN Stack
-  ████████████████████████████████░░░░░░░░░░░░░░ 70% Machine Learning
-  ████████████████████████████░░░░░░░░░░░░░░░░░░ 65% Data Structures & Algorithms
-  ████████████████████████░░░░░░░░░░░░░░░░░░░░░░ 60% System Design
-  ────────────────────────────────────────────────────────────
-</div>
 
-💬 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-👀 Profile Statistics
+# 👀 Profile Statistics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
@@ -282,7 +252,7 @@ JavaScript Projects
   <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&color=bb9af7"/>
 </p>
 
-🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
   Always interested in collaborating on
@@ -301,7 +271,7 @@ JavaScript Projects
   </a>
 </p>
 
-⚡ Fun Fact
+# ⚡ Fun Fact
 
 <div align="center">
   "Code. Learn. Build. Repeat."
