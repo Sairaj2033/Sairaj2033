@@ -20,15 +20,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sairaj2033">
-    <img src="https://img.shields.io/github/followers/Sairaj2033?label=Followers&style=for-the-badge&color=7AA2F7"/>
-  </a>
-  <a href="https://github.com/Sairaj2033">
-    <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&color=BB9AF7"/>
-  </a>
-  
-</p>
 
 ## 🌍 Connect With Me
 <br>
