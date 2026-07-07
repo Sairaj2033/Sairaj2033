@@ -214,40 +214,27 @@ const sairaj = {
   <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&color=bb9af7"/>
 </p>
 
-# 🤝 Let's Connect
+---
 
 <p align="center">
-  Always interested in collaborating on
-  ✨ Open Source
-  🤖 Artificial Intelligence
-  🌐 Full Stack Development
-  🚀 Innovative Projects
+  ⭐ <b>Made with ❤️ by <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
 </p>
 
 <p align="center">
-  <a href="mailto:sairajpatil035@gmail.com">
-    <img src="https://img.shields.io/badge/Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <i>"Turning ideas into intelligent solutions, one commit at a time!"</i> 🚀
 </p>
 
-# ⚡ Fun Fact
-
-<div align="center">
-  "Code. Learn. Build. Repeat."
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,20,24,30"/>
-</div>
-
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
+---
 
 <p align="center">
-  If you like my projects, consider giving them a ⭐
+👨‍💻 <b>I love connecting with developers from around the world.</b><br>
+If you'd like to collaborate on AI, Open Source, or Full Stack projects—or just say hi—I'd be happy to connect! 😊
 </p>
 
+<br>
+
+<h1 align="center">Thanks for Visiting!</h1>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=footer&text=Thanks%20for%20Visiting!&fontSize=44&fontColor=ffffff&animation=twinkling&color=gradient"/>
+</p>
