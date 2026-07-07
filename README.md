@@ -184,9 +184,8 @@ const sairaj = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyonight&hide_border=true&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyo-night&hide_border=true&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&color=00E5FF&title_color=00E5FF&bg_color=1A1B27"/>
 </p>
-
 # Fun Contribution Snake
 
 <p align="center">
