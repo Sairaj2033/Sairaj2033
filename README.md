@@ -40,7 +40,7 @@
   </a>
 
  <a href="https://x.com/sairaj__patil">
-  <img src="https://img.shields.io/badge/@sairaj__patil-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
   <a href="https://www.instagram.com/sairaj_patill">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
