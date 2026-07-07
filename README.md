@@ -38,9 +38,10 @@
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/sairaj__patil">
-    <img width="5", src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+
+ <a href="https://x.com/sairaj__patil">
+  <img src="https://img.shields.io/badge/@sairaj__patil-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
   <a href="https://www.instagram.com/sairaj_patill">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
