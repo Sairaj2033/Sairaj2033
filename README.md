@@ -11,7 +11,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Sairaj%20Patil&fontSize=58&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn"/>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sairaj Patil
+  Hi <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="35"> I'm Sairaj Patil
 </h1>
 
 <h3 align="center">
