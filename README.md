@@ -30,7 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
 </p>
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
 <br>
 <br>
 
@@ -54,7 +54,7 @@
 </p>
 <br>
 
-## ✨ About Me
+## 🎯 About Me
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ const sairaj = {
 ==============================================
 -->
 
-# 💻 Tech Stack
+# 🛠️  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
@@ -149,7 +149,7 @@ const sairaj = {
 ==============================================
 -->
 
-🚀 Currently Working On
+# 🚀 Currently Working On
 
 <div align="center">
   🚀 Learning
