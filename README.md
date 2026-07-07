@@ -237,12 +237,14 @@ If you'd like to collaborate on AI, Open Source, or Full Stack projects—or jus
 <br>
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260707_145419.jpg.jpeg"/>
+</p>
+
+
+<p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
   />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260707_145419.jpg.jpeg"/>
-</p>
