@@ -156,12 +156,17 @@ const sairaj = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sairaj2033&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Sairaj2033&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 # 🏆 GitHub Trophies
@@ -188,45 +193,7 @@ const sairaj = {
   </picture>
 </p>
 
-#🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Sairaj2033/VARTA-AI-Multilingual-AI-Platform">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=VARTA-AI-Multilingual-AI-Platform&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Sairaj2033/SQL-DATAMANAGEMENT-PLATFORM">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=SQL-DATAMANAGEMENT-PLATFORM&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Sairaj2033/Whatsapp-chatbox-Clone-">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Whatsapp-chatbox-Clone-&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Sairaj2033/Mini-Webdev-Projects">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sairaj2033&repo=Mini-Webdev-Projects&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-🤖 VARTA AI – Multilingual AI Platform
-AI-powered multilingual platform focused on intelligent communication.
-**Tech Stack**
-React • Node.js • Express • MongoDB • AI APIs
-
-🗄️ SQL Data Management Platform
-Database management application with CRUD operations and SQL integration.
-**Tech Stack**
-HTML • CSS • JavaScript • SQL
-
-💬 WhatsApp Chatbox Clone
-Responsive WhatsApp-inspired interface built from scratch.
-**Tech Stack**
-HTML • CSS • JavaScript
-
-🌐 Mini Web Development Projects
-A collection of frontend projects for learning modern web development.
-**Highlights**
-Responsive UI
-Animations
-Components
-JavaScript Projects
 
 # 📋 GitHub Profile Summary
 
