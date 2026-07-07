@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-  Artificial Intelligence & Data Science Undergraduate • MERN Stack Developer • Machine Learning Enthusiast
+  Artificial Intelligence & Data Science • MERN Stack Developer • Machine Learning • Open Source Conntributor 
 </h3>
 
 <p align="center">
