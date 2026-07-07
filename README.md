@@ -30,7 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
 </p>
 
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 <br>
 <br>
 
@@ -111,7 +111,7 @@ const sairaj = {
 ==============================================
 -->
 
-# 🛠️  Tech Stack
+## 🛠️  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
@@ -153,7 +153,7 @@ const sairaj = {
 
 
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sairaj2033&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -180,7 +180,7 @@ const sairaj = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
 </p>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
@@ -188,7 +188,7 @@ const sairaj = {
   </a>
 </p>
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sairaj2033&theme=tokyonight&hide_border=true&area=true"/>
@@ -206,7 +206,7 @@ const sairaj = {
 
 
 
-# 📋 GitHub Profile Summary
+## 📋 GitHub Profile Summary
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
