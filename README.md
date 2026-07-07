@@ -27,7 +27,7 @@
   <a href="https://github.com/Sairaj2033">
     <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&color=BB9AF7"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
+  
 </p>
 
 ## 🌍 Connect With Me
@@ -205,6 +205,14 @@ const sairaj = {
 </p>
 
 
+
+
+
+
+
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
+</p>
 
 ## 📋 GitHub Profile Summary
 
