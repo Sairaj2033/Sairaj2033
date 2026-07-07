@@ -8,7 +8,7 @@
 ==============================================
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Sairaj%20Patil&fontSize=50&fontAlignY=36&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Sairaj%20Patil&fontSize=50&fontAlignY=28&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=46&animation=fadeIn"/>
 
 
 
