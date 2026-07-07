@@ -58,7 +58,7 @@
 ```typescript
 const sairaj = {
     pronouns: "He/Him",
-    location: "Pune, Maharashtra 🇮🇳",
+    location: "INDIA 🇮🇳",
     education: "B.E. Artificial Intelligence & Data Science",
 
     currentFocus: [
