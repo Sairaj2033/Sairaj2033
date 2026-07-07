@@ -61,7 +61,7 @@ const sairaj = {
     location: "INDIA 🇮🇳",
 
     building: [
-        "AI Applications",
+        "AI & ML Systems",
         "Full Stack Projects"
     ],
 
