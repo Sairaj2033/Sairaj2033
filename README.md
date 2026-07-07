@@ -30,7 +30,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sairaj2033&style=for-the-badge&color=7AA2F7"/>
 </p>
 
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
@@ -57,46 +57,31 @@
 
 ```typescript
 const sairaj = {
-    pronouns: "He/Him",
+    role: "AI & Data Science Undergraduate",
     location: "INDIA 🇮🇳",
-    education: "B.E. Artificial Intelligence & Data Science",
 
-    currentFocus: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning"
+    building: [
+        "AI Applications",
+        "Full Stack Projects"
     ],
 
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Java",
-        "SQL"
+    learning: [
+        "Machine Learning",
+        "Advanced MERN",
+        "DSA",
+        "System Design"
     ],
 
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL"],
-        aiMl: ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    tech: {
+        frontend: ["React", "Next.js", "Tailwind"],
+        backend: ["Node.js", "Express"],
+        ai: ["TensorFlow", "Scikit-learn"],
+        database: ["MongoDB", "MySQL"]
     },
 
-    currentlyLearning: [
-        "DSA",
-        "Advanced MERN",
-        "System Design",
-        "AI Agents"
-    ],
+    askMeAbout: ["AI", "MERN", "JavaScript"],
 
-    askMeAbout: [
-        "Web Development",
-        "JavaScript",
-        "AI/ML"
-    ],
-
-    funFact: "I learn best by building real-world projects. 🚀"
+    motto: "Learn. Build. Improve. 🚀"
 };
 ```
 
@@ -112,7 +97,7 @@ const sairaj = {
 ==============================================
 -->
 
-💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
