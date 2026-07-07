@@ -235,7 +235,7 @@ const sairaj = {
 <p align="center">
   <img src="https://camo.githubusercontent.com/6b9c2a342f778248d0e947a1a4e7d332e59dadc140de25650cd23d2dd45a86f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="42" valign="middle"/>
   &nbsp;
-  <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😊</i>
+  <i><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you! 😊<b></i>
 </p>
 
 
