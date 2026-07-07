@@ -207,7 +207,7 @@ const sairaj = {
 <p align="center">
   <img height="32" src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=8B5CF6"/>
 </p>
-----
+<hr>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
