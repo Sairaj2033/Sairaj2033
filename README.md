@@ -233,11 +233,9 @@ If you'd like to collaborate on AI, Open Source, or Full Stack projects—or jus
 
 <br>
 
-<h1 align="center">Thanks for Visiting!</h1>
-
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=gradient&customColorList=24,25,26,27,28"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=static&customColorList=24,25,26,27,28"
   />
 </p>
