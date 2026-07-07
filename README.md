@@ -8,7 +8,7 @@
 ==============================================
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=000000,000000,00d9ff&text=Sairaj%20Patil&fontSize=52&fontAlignY=28&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Open%20Source%20%7C%20Competative%20Programming&descAlignY=46&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2a004a,000000,000000&text=Sairaj%20Patil&fontSize=52&fontAlignY=28&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Open%20Source%20%7C%20Competative%20Programming&descAlignY=46&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Competative+Programmer;Always+Learning+Something+New+%F0%9F%9A%80" />
