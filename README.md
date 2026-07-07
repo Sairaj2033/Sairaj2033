@@ -13,7 +13,7 @@
 
 
 <h3 align="center">
-  Artificial Intelligence & Data Science • MERN Stack Developer • Machine Learning • Open Source Conntributor 
+  Artificial Intelligence & Machine Learning • MERN Stack Developer • Open Source Conntributor 
 </h3>
 
 <p align="center">
