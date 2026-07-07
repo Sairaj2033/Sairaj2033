@@ -209,13 +209,12 @@ const sairaj = {
 # 👀 Profile Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sairaj2033&label=PROFILE%20VIEWS&style=for-the-badge&labelColor=181717&color=7aa2f7"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
 
   <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
 
   <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
-
 ---
 
 <p align="center">
