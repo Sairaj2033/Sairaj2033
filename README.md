@@ -55,7 +55,7 @@
 
 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
 
 🎓 B.E. Artificial Intelligence & Data Science
 💻 Passionate about Full Stack Web Development and Artificial Intelligence
