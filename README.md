@@ -31,6 +31,7 @@
 </p>
 
 # 🌐 Connect With Me
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
@@ -50,6 +51,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+<br>
 
 # 💫 About Me
 
