@@ -58,16 +58,13 @@
 ```typescript
 const sairaj = {
     pronouns: "He/Him",
-
-    location: "Pune, Maharashtra, India 🇮🇳",
-
+    location: "Pune, Maharashtra 🇮🇳",
     education: "B.E. Artificial Intelligence & Data Science",
 
     currentFocus: [
+        "Full Stack Development",
         "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Web Development",
-        "Open Source"
+        "Machine Learning"
     ],
 
     code: [
@@ -81,49 +78,25 @@ const sairaj = {
     technologies: {
         frontend: ["React", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express.js"],
-        aiMl: [
-            "Scikit-learn",
-            "TensorFlow",
-            "NumPy",
-            "Pandas"
-        ],
-        databases: [
-            "MongoDB",
-            "MySQL",
-            "Firebase"
-        ],
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Postman"
-        ]
+        databases: ["MongoDB", "MySQL"],
+        aiMl: ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
     },
 
     currentlyLearning: [
-        "Data Structures & Algorithms",
-        "Advanced MERN Stack",
-        "Machine Learning",
+        "DSA",
+        "Advanced MERN",
         "System Design",
         "AI Agents"
     ],
 
-    projects: [
-        "VARTA AI",
-        "SQL Data Management Platform",
-        "WhatsApp Clone",
-        "Mini Web Projects"
+    askMeAbout: [
+        "Web Development",
+        "JavaScript",
+        "AI/ML"
     ],
 
-    openTo: [
-        "Open Source",
-        "Hackathons",
-        "AI Projects",
-        "Full Stack Collaborations"
-    ],
-
-    lifePhilosophy:
-        "The best way to learn is by building real-world projects. 🚀"
+    funFact: "I learn best by building real-world projects. 🚀"
 };
 ```
 
