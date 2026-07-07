@@ -164,6 +164,22 @@ const sairaj = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairaj2033&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<!---->
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sairaj2033&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sairaj2033&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sairaj2033&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sairaj2033&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sairaj2033&theme=tokyonight"/>
+</p>
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -199,21 +215,6 @@ const sairaj = {
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
 </p>
-
-
-
-
-
-# 👀 Profile Statistics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Sairaj2033"/>
-
-  <img src="https://img.shields.io/github/followers/Sairaj2033?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
-
-  <img src="https://img.shields.io/github/stars/Sairaj2033?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
-</p>
----
 
 <p align="center">
   ⭐ <b>Made with ❤️ by <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
