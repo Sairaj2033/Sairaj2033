@@ -56,7 +56,8 @@
 
 # 💫 About Me
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif"/>
+</td> <td width="5%"></td> <td width="35%" align="center"> <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="300"/> </td> </tr> </table> ```
+
 
 ```typescript
 const sairaj = {
@@ -82,11 +83,9 @@ const sairaj = {
         database: ["MongoDB", "MySQL"]
     },
 
-    askMeAbout: ["AI", "MERN", "JavaScript"],
-
-    motto: "Learn. Build. Improve. 🚀"
 };
 ```
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br clear="right"/>
 
