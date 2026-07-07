@@ -54,15 +54,18 @@
 </p>
 <br>
 
-# 💫 About Me
+## ✨ About Me
 
-</td> <td width="5%"></td> <td width="35%" align="center"> <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="300"/> </td> </tr> </table> ```
+<table>
+<tr>
+<td width="58%" valign="top">
+
 
 
 ```typescript
 const sairaj = {
     role: "AI & Data Science Undergraduate",
-    location: "INDIA 🇮🇳",
+    location: "India 🇮🇳",
 
     building: [
         "AI & ML Systems",
@@ -81,14 +84,23 @@ const sairaj = {
         backend: ["Node.js", "Express"],
         ai: ["TensorFlow", "Scikit-learn"],
         database: ["MongoDB", "MySQL"]
-    },
-
+    }
 };
 ```
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br clear="right"/>
+<br>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="360"/>
+
+</td>
+</tr>
+</table>
 <!-- ==========================================
 ==============================================
 -->
