@@ -217,7 +217,7 @@ const sairaj = {
 </p>
 
 <p align="center">
-  ⭐ <b>Made by <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
+  ⭐ <b>Connect with <a href="https://github.com/Sairaj2033">Sairaj Patil</a></b> ⭐
 </p>
 
 <p align="center">
