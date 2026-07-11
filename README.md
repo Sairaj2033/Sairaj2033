@@ -244,6 +244,6 @@ const sairaj = {
 
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/20260707_225506.jpg.jpeg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
 </p>
 
