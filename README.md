@@ -236,6 +236,12 @@ const sairaj = {
 
 
 <p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
+</p>
+
+
+
+<p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&color=D1D5DB"
@@ -243,7 +249,4 @@ const sairaj = {
 </p>
 
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Open to Collaboration_20260712_014150_0000.png"/>
-</p>
 
