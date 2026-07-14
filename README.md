@@ -101,7 +101,7 @@ const sairaj = {
 ## 🛠️  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,androidstudio,discord,ai,ps,pr,ae&perline=11"/>
+  <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,sqlite,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,discord,ai,ps,pr,ae&perline=11"/>
 </p>
 
 <p align="center">
