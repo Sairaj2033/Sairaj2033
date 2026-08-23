@@ -98,7 +98,7 @@ const sairaj = {
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/sairaj__patil">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="45">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" height="45">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sairaj_patill">
