@@ -174,7 +174,7 @@ const sairaj = {
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=radical&column=7" alt="GitHub Trophies" />
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=discord&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
