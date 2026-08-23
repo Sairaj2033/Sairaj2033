@@ -173,7 +173,7 @@ const sairaj = {
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
-    <img src="[https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&column=6&margin-w=10&margin-h=10](https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=oldie&column=6)" alt="GitHub Trophies" />
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=oldie&column=6&title=-AncientUser" alt="GitHub Trophies" />
   </a>
 </p>
 
