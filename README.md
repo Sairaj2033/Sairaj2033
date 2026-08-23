@@ -95,7 +95,7 @@ const sairaj = {
 <table align="center">
 <tr>
 <!-- LinkedIn Card -->
-<td align="center" width="25%">
+<td align="center" width="27%">
 <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
 <img src="./assets/20260823_200357~3.jpg.jpeg" width="250" alt="Sairaj Patil LinkedIn Profile">
 </a>
