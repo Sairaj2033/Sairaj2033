@@ -92,53 +92,39 @@ const sairaj = {
 
 ## 📬 Connect With Me
 
-<br>
-
 <table align="center">
-  <tr>
-    <!-- LinkedIn Card -->
-    <td align="center" width="45%">
-      <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-        <img src="./assets/linkdin-badge.png"
-             width="240"
-             alt="Sairaj Patil LinkedIn Profile">
-      </a>
-    </td>
+<tr>
+<!-- LinkedIn Card -->
+<td align="center" width="45%">
+<a href="https://www.linkedin.com/in/sairaj-patil-631701311">
+<img src="./assets/linkdin-badge.png" width="240" alt="Sairaj Patil LinkedIn Profile">
+</a>
+</td>
 
-    <!-- Social Links -->
-    <td align="center" width="55%">
+<!-- Social Links -->
+<td align="center" width="55%">
+<p>
+<a href="https://x.com/sairaj__patil">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/sairaj_patill">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45">
+</a>
+</p>
 
-      <p>
-        <a href="https://x.com/sairaj__patil">
-          <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"
-               height="45">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://www.instagram.com/sairaj_patill">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-               height="45">
-        </a>
-      </p>
-
-      <p>
-        <a href="https://discord.gg/CRKJbVM6a">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-               height="45">
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:sairajpatil035@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-               height="45">
-        </a>
-      </p>
-
-    </td>
-  </tr>
+<p>
+<a href="https://discord.gg/CRKJbVM6a">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="45">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sairajpatil035@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45">
+</a>
+</p>
+</td>
+</tr>
 </table>
-
-<br>
-
-
 
 
 ## 📊 GitHub Analytics
