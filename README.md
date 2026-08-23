@@ -91,7 +91,7 @@ const sairaj = {
 
 
 ## 📬 Connect With Me
-<br> <br>
+<br> 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="65">
@@ -114,7 +114,7 @@ const sairaj = {
   </a>
 </p>
 
-<br> <br>
+<br> 
 ## 📊 GitHub Analytics
 
 <p align="center">
