@@ -173,9 +173,10 @@ const sairaj = {
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
-    <img src="https://github-profile-trophy-olive-chi.vercel.app/?username=Sairaj2033&theme=dracula&rank=SSS,SS,S,SECRET&wantAll=true&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
   </a>
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
