@@ -112,7 +112,7 @@ const sairaj = {
   <a href="mailto:sairajpatil035@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45">
   </a>
-</p>e>
+</p>
 
 
 ## 📊 GitHub Analytics
