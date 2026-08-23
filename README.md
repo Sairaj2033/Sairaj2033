@@ -172,9 +172,10 @@ const sairaj = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.s3.us-east-2.amazonaws.com/?username=Sairaj2033" alt="GitHub Trophies" />
+  <a href="https://github.com/Sairaj2033">
+    <img src="https://github-profile-trophy-olive-chi.vercel.app/?username=Sairaj2033&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+  </a>
 </p>
-
 
 
 ## 📈 Contribution Graph
