@@ -78,7 +78,7 @@ const sairaj = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-    <img src="./assets/linkedin-badge.png" width="320" alt="Sairaj Patil LinkedIn Profile">
+    <img src="./assets/linkdin-badge.png" width="320" alt="Sairaj Patil LinkedIn Profile">
   </a>
 
   <br><br>
