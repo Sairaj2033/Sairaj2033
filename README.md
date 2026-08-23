@@ -73,17 +73,16 @@ const sairaj = {
 ==============================================
 -->
 ## 📬 Connect With Me
-             
-
-
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="./assets/linkedin-badge.png" width="320" alt="Sairaj Patil LinkedIn Profile">
   </a>
-  &nbsp;
+
+  <br><br>
+
   <a href="https://x.com/sairaj__patil">
     <img src="https://img.shields.io/badge/(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
   </a>
@@ -100,6 +99,7 @@ const sairaj = {
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 </p>
+
 <br>
 
 ## 🛠️  Tech Stack
