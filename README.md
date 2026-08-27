@@ -18,7 +18,7 @@
 
 ```typescript
 const sairaj = {
-    role: "AI & Data Science Undergraduate",
+    role: "AI & Data Science Undergrad'28",
     location: "India 🇮🇳",
 
     building: [
