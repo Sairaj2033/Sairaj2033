@@ -56,6 +56,8 @@ const sairaj = {
 </tr>
 </table>
 
+<br>
+
 ## 🛠️ Tech Arsenal
 
 <table align="center">
@@ -179,7 +181,7 @@ const sairaj = {
   </a>
 </p>
 
-
+<br>
 
 ## 📊 GitHub Analytics
 
