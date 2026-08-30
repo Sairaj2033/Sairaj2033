@@ -56,105 +56,130 @@ const sairaj = {
 </tr>
 </table>
 
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,c,cpp,java,python,javascript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vercel,netlify,linux,bash,powershell,discord,ps,lr&perline=16"/>
-</p>
+## 🛠️ Tech Arsenal
 
 <table align="center">
 <tr>
 
+<!-- LEFT COLUMN -->
 <td width="50%" align="center">
 
-<h3>Tech</h3>
+<h3>🎨 Frontend & UI</h3>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,materialui,bootstrap,redux,vite,threejs&perline=7"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+<br>
+
+<br><br>
+
+<h3>⚙️ Backend & Database</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,mongodb,jest,mysql,postgres,firebase,supabase&perline=7"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<br/>
+
+<br><br>
+
+<h3>🤖 AI/ML & Data Science</h3>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=6"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </td>
 
+
+<!-- RIGHT COLUMN -->
 <td width="50%" align="center">
 
-<h3>Design</h3>
+<h3>☁️ Cloud & DevOps</h3>
 
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,git,github,gitlab,linux&perline=6"/>
+
+<br>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<br><br>
+
+
+<h3>🎨 Design & Creative</h3>
+
+<img src="https://skillicons.dev/icons?i=figma,ps&perline=6"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Lightroom_Classic-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Affinity_Designer-A6E137?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Adobe_Lightroom-1C3A5E?style=for-the-badge&logo=adobelightroom&logoColor=8CC4FF"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom_Classic-243B53?style=for-the-badge&logo=adobelightroom&logoColor=9AD7FF"/>
+<img src="https://img.shields.io/badge/Affinity_Designer-a6e137?style=for-the-badge&logoColor=A6E137"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PixelLab-87CEEB?style=for-the-badge&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Framer-2D1B69?style=for-the-badge&logo=framer&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Canva-006B70?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/PixelLab-245A73?style=for-the-badge&logoColor=87CEEB"/>
 </td>
 
 </tr>
 </table>
 
+<br>
 
+<h3 align="center">🧰 Tools & Workflow</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,vscode,postman,npm,git,github,discord&perline=8"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hyprland-55B5EA?style=for-the-badge&logo=hyprland&logoColor=white"/>
+</p>
 
-## 📬 Connect With Me
-<br> 
+<br/>
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/sairaj__patil">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/X-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="45" alt="X" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/sairaj_patill">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://discord.gg/CRKJbVM6a">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/DISCORD-JOIN-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="45" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sairajpatil035@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="45" alt="Gmail" />
   </a>
 </p>
 
-<br> 
+
 
 ## 📊 GitHub Analytics
 
@@ -207,10 +232,6 @@ const sairaj = {
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
-
-
-
-
 
 
 
