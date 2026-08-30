@@ -119,7 +119,7 @@ const sairaj = {
 <img src="https://skillicons.dev/icons?i=figma,ps&perline=6"/>
 
 <br>
-<img src="https://img.shields.io/badge/Affinity_Designer-a6e137?style=for-the-badge&logoColor=A6E137"/>
+<img src="https://img.shields.io/badge/Affinity_By_Canva-a6e137?style=for-the-badge&logoColor=A6E137"/>
 <img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 
 <br>
