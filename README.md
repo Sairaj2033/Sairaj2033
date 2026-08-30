@@ -68,7 +68,7 @@ const sairaj = {
 
 <h3>🎨 Frontend & UI</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,materialui,bootstrap,redux,vite,threejs&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,scss,tailwind,materialui,bootstrap,redux,vite,threejs&perline=7"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 <br>
 
