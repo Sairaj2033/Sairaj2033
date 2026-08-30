@@ -165,7 +165,7 @@ const sairaj = {
   </a>
   &nbsp;
   <a href="https://x.com/sairaj__patil">
-    <img src="https://img.shields.io/badge/X-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="45" alt="X" />
+    <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" height="45" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/sairaj_patill">
