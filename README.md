@@ -68,7 +68,7 @@ const sairaj = {
 
 <td width="50%" align="center">
 
-<h3>💻 Developer</h3>
+<h3>Developer</h3>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
@@ -102,7 +102,7 @@ const sairaj = {
 
 <td width="50%" align="center">
 
-<h3>🎨 Designer</h3>
+<h3>Designer</h3>
 
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
