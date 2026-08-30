@@ -86,8 +86,8 @@ const sairaj = {
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Affinity%20Designer-1B1B1B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Affinity%20Photo-1B1B1B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Affinity%20Designer-39FF14?style=for-the-badge&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Affinity%20Photo-00FFFF?style=for-the-badge&logoColor=black"/>
 </p>
 
 
