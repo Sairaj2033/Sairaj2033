@@ -214,8 +214,7 @@ const sairaj = {
 
 <p align="center">
   <a href="https://github.com/Sairaj2033">
-    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&wantAll=true&theme=radical&column=7" alt="GitHub Trophies" />
-  </a>
+    <img src="https://sairaj2033-github-trophy.vercel.app/?username=Sairaj2033&theme=radical&column=7&wantAchieveSuperRank=true&wantMultipleLang=true&wantLongTimeAccount=true&wantNewAccount=true&wantMultipleOrganizations=true" alt="GitHub Trophies" />  </a>
 </p>
 
 ## 📈 Contribution Graph
