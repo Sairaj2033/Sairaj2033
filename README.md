@@ -114,7 +114,7 @@ opportunities & resources that elevate your skills.
     <img src="https://img.shields.io/badge/DISCORD-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="65" width="25% alt="Join Hawks on Discord"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_HAWKS_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/company/hawks-community">
     <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="65" width="25% alt="Join Hawks on LinkedIn"/>
   </a>
 </p>
