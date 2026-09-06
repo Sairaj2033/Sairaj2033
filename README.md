@@ -210,7 +210,7 @@ opportunities & resources that elevate your skills.
 <h3 align="center">🧰 Tools & Workflow</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,vscode,postman,npm,git,github,discord&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=arch,linux,windows,vscode,postman,npm,git,github,discord&perline=8"/>
 </p>
 
 <p align="center">
