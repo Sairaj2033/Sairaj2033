@@ -68,7 +68,19 @@ const sairaj = {
 
 <h1 align="center">Hawks Community</h1>
 
-```typescript
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Sairaj2033/Sairaj2033/main/assets/Hawks_poster_update1.png" width="100%"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre><code>
+ 
 Hawks Community is a developer-led technology community built for
 developers, designers, builders, and technology enthusiasts.
 
@@ -79,7 +91,18 @@ With a growing network of engineers, designers, and Microsoft Learn Student
 Ambassadors, Hawks creates a space for knowledge sharing, technical
 discussions, open-source collaboration, events, and updates related to
 opportunities & resources that elevate your skills.
-```
+
+
+  
+</code></pre>
+<br/>
+<br/>
+</td>
+
+</tr>
+</table>
+
+
 <h2 align="center">Onboard the Hawks Community</h2>
 
 <p align="center">
