@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="/assets/Sairaj_Banner.png"/>
+<img width="100%" src="/assets/Linkdedin_banner-update2.png"/>
 
 
 <p align="center">
