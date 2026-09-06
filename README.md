@@ -205,23 +205,23 @@ opportunities & resources that elevate your skills.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sairaj-patil-631701311">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" width="20%"  alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="30" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/sairaj__patil">
-    <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"  height="50" width="20%" alt="X" />
+    <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-1C1D21?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" width="170" height="30" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/sairaj_patill">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="50" width="20%"   alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-1C1D21?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="170" height="30" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://discord.gg/CRKJbVM6a">
-    <img src="https://img.shields.io/badge/DISCORD-JOIN-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"  height="50" width="20%"   alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-JOIN-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" width="170" height="30" alt="Discord" />
   </a>
   &nbsp;
   <a href="mailto:sairajpatil035@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"  height="50" width="20%"  alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="30" alt="Gmail" />
   </a>
 </p>
 
