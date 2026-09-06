@@ -87,7 +87,7 @@ developers, designers, builders, and technology enthusiasts.
 We bring people together to learn, collaborate, build meaningful projects,
 and discover new opportunities across the technology ecosystem.
 
-With a growing network of engineers, designers, and Microsoft Learn Student
+With a growing network of engineers, designers, and Microsoft,Google & other
 Ambassadors, Hawks creates a space for knowledge sharing, technical
 discussions, open-source collaboration, events, and updates related to
 opportunities & resources that elevate your skills.
