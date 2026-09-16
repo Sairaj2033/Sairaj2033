@@ -106,7 +106,7 @@ opportunities & resources that elevate your skills.
 <h2 align="center">We'd love to have you Onbaord!</h2>
 
 <p align="center">
-  <a href="YOUR_HAWKS_LINK">
+  <a href="https://linktr.ee/hawks.org">
     <img
       src="https://img.shields.io/badge/Onboard%20Hawks-C8102E?style=for-the-badge&labelColor=C8102E&color=C8102E"
       height="50"
