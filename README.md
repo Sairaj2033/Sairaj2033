@@ -103,19 +103,16 @@ opportunities & resources that elevate your skills.
 </table>
 
 
-<h2 align="center">Onboard the Hawks Community</h2>
+<h2 align="center">We'd love to have you Onbaord!</h2>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/F5jCMAlocGf6u67Oc2od2u">
-    <img src="https://img.shields.io/badge/WHATSAPP-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="65" width="25%" alt="Join Hawks on WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/nR3dfezRSe">
-    <img src="https://img.shields.io/badge/DISCORD-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" height="65" width="25% alt="Join Hawks on Discord"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/hawks-community">
-    <img src="https://img.shields.io/badge/LINKEDIN-JOIN%20HAWKS-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="65" width="25% alt="Join Hawks on LinkedIn"/>
+  <a href="YOUR_HAWKS_LINK">
+    <img
+      src="https://img.shields.io/badge/Onboard%20Hawks-C8102E?style=for-the-badge&labelColor=C8102E&color=C8102E"
+      height="50"
+      width="300"
+      alt="Onboard Hawks"
+    />
   </a>
 </p>
 
